@@ -49,14 +49,14 @@ const Exec = ({ stateChanger, ...rest }) => {
               />
             </svg>
 
-            <span className="text-sm font-medium"> President -  Bill Merriman (403-519-5465) </span>
+            <span className="text-sm font-medium"> President -  ABillz Amerrimanz  </span>
           </div>
           <div
             className="flex items-center gap-2 rounded-lg px-4 py-2 text-gray-500 hover:bg-gray-100 hover:text-gray-700"
           >
             <svg height="18" viewBox="0 0 21 21" width="21" xmlns="http://www.w3.org/2000/svg"><g fill="none" fillRule="evenodd" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" transform="translate(1 2)"><path d="m7.5.5c1.65685425 0 3 1.34314575 3 3v2c0 1.65685425-1.34314575 3-3 3s-3-1.34314575-3-3v-2c0-1.65685425 1.34314575-3 3-3zm7 14v-.7281753c0-3.1864098-3.6862915-5.2718247-7-5.2718247s-7 2.0854149-7 5.2718247v.7281753c0 .5522847.44771525 1 1 1h12c.5522847 0 1-.4477153 1-1z" /><path d="m11.5199327.67783074c1.1547685.41741154 1.9800673 1.52341097 1.9800673 2.82216926v1c0 1.29707884-.8475766 2.5813505-2 3 .6742649-.91876977 1.0109204-2.0857069 1.0099664-3.50081137s-.3309652-2.52222377-.9900337-3.32135789zm4.9800673 14.82216926h1c.5522847 0 1-.4477153 1-1 0-.2427251 0-.4854502 0-.7281753 0-2.1698712-1.7094418-3.82917861-3.8465775-4.66705336 0 0 2.8465775 2.39522866 1.8465775 6.39522866z" fill="currentColor" /></g></svg>
 
-            <span className="text-sm font-medium"> Legislative Rep - John Dohrety (403-921-4044) </span>
+            <span className="text-sm font-medium"> Legislative Rep - AzJohnz ADohretyz  </span>
           </div>
           {/* EngRep */}
           <details className="group [&_summary::-webkit-details-marker]:hidden">
@@ -79,7 +79,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium"> Engineer Reps </span>
+                <span className="text-sm font-medium"> Engineer Lead </span>
               </div>
 
               <span className="shrink-0 transition duration-300 group-open:-rotate-180">
@@ -117,7 +117,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Local Chairman -  JP Baril  (403-827-1103) </span>
+                <span className="text-sm font-medium">Local Chairman -  AJPZ ABarilz   </span>
               </div>
 
               <div
@@ -138,7 +138,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Vice Local Chair -  Steven Joyce </span>
+                <span className="text-sm font-medium">Vice Local Chair -  AStevenz AJoycez </span>
               </div>
 
 
@@ -160,7 +160,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium"> -  Jordan Gillis </span>
+                <span className="text-sm font-medium"> -  AJordanz AGillisz </span>
               </div>
 
             </nav>
@@ -186,7 +186,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium"> Conductor Reps </span>
+                <span className="text-sm font-medium"> Conductor Lead </span>
               </div>
 
               <span className="shrink-0 transition duration-300 group-open:-rotate-180">
@@ -224,7 +224,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Local Chairman -  Ever Kelly (587-435-0199) </span>
+                <span className="text-sm font-medium">Local Chairman -  AEverz AKellyz (587-435-0199) </span>
               </div>
 
               <div
@@ -245,7 +245,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Vice Local Chair -  Steven Joyce </span>
+                <span className="text-sm font-medium">Vice Local Chair -  AStevenz AJoycez </span>
               </div>
 
               <div>
@@ -267,7 +267,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                     />
                   </svg>
 
-                  <span className="text-sm font-medium"> Vice Local Chair -  Tim Stokes </span>
+                  <span className="text-sm font-medium"> Vice Local Chair -  ATimz AStokesz </span>
                 </div>
               </div>
             </nav>
@@ -293,7 +293,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium"> Trainmen Reps </span>
+                <span className="text-sm font-medium"> Trainmen Lead </span>
               </div>
 
               <span className="shrink-0 transition duration-300 group-open:-rotate-180">
@@ -331,7 +331,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Local Chairman -  Micheal Nilsson (587-893-9100) </span>
+                <span className="text-sm font-medium">Local Chairman -  AMichealz ANilssonz (587-893-9100) </span>
               </div>
 
               <div
@@ -352,7 +352,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Vice Local Chair -  Chris Merke </span>
+                <span className="text-sm font-medium">Vice Local Chair -  AChrisz AMerkez </span>
               </div>
 
               <div>
@@ -374,7 +374,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                     />
                   </svg>
 
-                  <span className="text-sm font-medium"> Vice Local Chair -  VACANT</span>
+                  <span className="text-sm font-medium"> Vice Local Chair -  Alambrogz AGhiniz</span>
                 </div>
               </div>
             </nav>
@@ -400,7 +400,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium"> Yard Reps </span>
+                <span className="text-sm font-medium"> Yard Lead </span>
               </div>
 
               <span className="shrink-0 transition duration-300 group-open:-rotate-180">
@@ -438,7 +438,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Local Chairman -  Trent Haug (403-389-1595) </span>
+                <span className="text-sm font-medium">Local Chairman -  ATrentZ AHaugZ  </span>
               </div>
 
               <div
@@ -459,7 +459,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                   />
                 </svg>
 
-                <span className="text-sm font-medium">Vice Local Chair -  Scott Mennie </span>
+                <span className="text-sm font-medium">Vice Local Chair -  AScottz AMenniez </span>
               </div>
 
               <div>
@@ -481,7 +481,7 @@ const Exec = ({ stateChanger, ...rest }) => {
                     />
                   </svg>
 
-                  <span className="text-sm font-medium">Vice Local Chair -  Matthew Gregoris </span>
+                  <span className="text-sm font-medium">Vice Local Chair -  AMatthewz AGregorisz </span>
                 </div>
               </div>
             </nav>
